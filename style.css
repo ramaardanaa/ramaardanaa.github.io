@@ -71,6 +71,7 @@ nav ul li a:hover {
   width: 100%;
   height: 100vh;
   font-family: 'Montserrat', sans-serif;
+  position: relative;
 }
 
 #home h1 {
@@ -89,6 +90,7 @@ nav ul li a:hover {
   align-items: center;
   width: 100%;
   height: 100vm;
+  position: relative;
 }
 
 #bungkus-about {
@@ -127,6 +129,7 @@ nav ul li a:hover {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
+  position: relative;
 }
 #bungkus-contact{
   margin-bottom: 100px;
